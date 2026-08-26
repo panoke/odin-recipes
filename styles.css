@@ -1,0 +1,22 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin: 10px auto;
+    width: 600px;
+}
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    color: blue;
+}
+
+
+h2 {
+    background-color: cadetblue;
+    color:blueviolet;
+    padding: 10px;
+}
+
+#homelink {
+    text-align: end;
+}
